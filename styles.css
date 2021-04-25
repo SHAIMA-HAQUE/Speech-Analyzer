@@ -80,5 +80,7 @@ svg {
 
 }
 .highlight{
-  text-decoration-color:black;
+  color:black;
+  font-weight: bolder;
+  font-size:2rem;
 }
